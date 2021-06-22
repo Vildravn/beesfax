@@ -1,0 +1,15 @@
+{
+  "name": "apico-data-export",
+  "version": "0.0.1",
+  "description": "Datamines APICO's files and outputs the data as mediawiki templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vildravn",
+  "license": "EUPL-1.2",
+  "dependencies": {
+    "es6-template-strings": "^2.0.1",
+    "lodash.capitalize": "^4.2.1"
+  }
+}
