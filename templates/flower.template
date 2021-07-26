@@ -20,6 +20,6 @@ recipe1_flower=${recipes[0]?.flower}|
 recipe1_outcome=${recipes[0]?.outcome}|
 
 recipe2_flower=${recipes[1]?.flower}|
-recipe12outcome=${recipes[1]?.outcome}|
+recipe2_outcome=${recipes[1]?.outcome}|
 
 }}
